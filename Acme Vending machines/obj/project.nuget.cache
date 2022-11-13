@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1155lSrwj+LyWaXBzz2wUMXnVPbjppJTeyy9YXJVkVuGC78uJXFTdsTK2ES1c52ME24ME9XiBpLKIfkhYfngg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tchiloane\\Source\\repos\\Acme Vending machines\\AcmeVendingMachines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tchiloane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

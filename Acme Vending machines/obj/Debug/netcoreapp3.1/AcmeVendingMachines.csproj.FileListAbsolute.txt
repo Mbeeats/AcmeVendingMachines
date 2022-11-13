@@ -1,0 +1,14 @@
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.csproj.AssemblyReference.cache
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.AssemblyInfoInputs.cache
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.AssemblyInfo.cs
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.csproj.CoreCompileInputs.cache
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.exe
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.deps.json
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.runtimeconfig.json
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.runtimeconfig.dev.json
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.dll
+C:\Users\tchiloane\Source\repos\Acme Vending machines\bin\Debug\netcoreapp3.1\AcmeVendingMachines.pdb
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.dll
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.pdb
+C:\Users\tchiloane\Source\repos\Acme Vending machines\obj\Debug\netcoreapp3.1\AcmeVendingMachines.genruntimeconfig.cache
